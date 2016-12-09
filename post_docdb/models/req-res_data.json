@@ -1,0 +1,14 @@
+{
+	"Results": {
+		"output1": {
+			"type": "table",
+			"value": {
+				"ColumnNames": ["field_name"],
+				"ColumnTypes": ["field_type"],
+				"Values": [
+					["values"]
+				]
+			}
+		}
+	}
+}
